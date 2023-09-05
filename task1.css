@@ -1,0 +1,81 @@
+.bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.tourism-card{
+  text-align: center;
+  background-color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  padding: 5px;
+  float:bottom;
+}
+.button{
+  color: white;
+  background-color: #25b1cc;
+  width: 138px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 20px;
+}
+.main-heading {
+  font-family: "Roboto";
+}
+.paragraph {
+  font-family: "Roboto";
+}
+.fvrt-place-bg-container{
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  height: 105vh;
+  background-size: cover;
+  padding: 24px;
+}
+.fvrt-place-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 14px;
+  }
+  .fvrt-place-card-container {
+    width:580px;
+    height:130px;
+    background-color:white;
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:15px;
+    border-radius: 8px;
+    margin-top:8px;
+    margin-bottom:8px;
+  }
+  .fvrt-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    
+  }
+  
+  .fvrt-place-card-desc {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 15px; 
+  }
+  
+  .fvrt-place-card-image {
+    width: 80px;
+    height: 100px;
+    float:right;
+  }
+ #leftBox{
+  float:left;
+ }
+ #rightImage{
+  float:right;
+ }
+ #button{
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+ }
